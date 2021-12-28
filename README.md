@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had came across several difficulties implementing the additional features since it was my first time developing software written in Swift. I had a few ui implementation issues regarding cg floats, colors, the status bar, and the keyboard. Furthermore, I had some issues when trying to implement the settings page and having the changes save across app restarts/switching pages.
 
 ## License
 
